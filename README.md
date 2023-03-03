@@ -1,4 +1,4 @@
-# Go to https://rococo-smakager-0ba309.netlify.app/ to view live
+# Go to https://rococo-smakager-0ba309.netlify.app/ or https://tic-tac-toe-brown-six.vercel.app/ to view live
 
 
 # Getting Started with Create React App
