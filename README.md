@@ -1,3 +1,6 @@
+# Go to https://rococo-smakager-0ba309.netlify.app/ to view live
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
